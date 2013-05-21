@@ -1,0 +1,6 @@
+Version 1.1
+Now prints all sorts to file, executed before menu system starts
+
+Version 1.0
+Takes in .csv file
+Sorts and prints to screen depending on user input from menu

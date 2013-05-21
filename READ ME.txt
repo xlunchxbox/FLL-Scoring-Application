@@ -1,0 +1,7 @@
+To Compile:
+
+unix terminal: make
+
+
+To Run:
+unix terminal: ./run
